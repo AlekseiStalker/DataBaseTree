@@ -12,6 +12,7 @@ The application architecture was designed using the MVVM pattern, the main imple
 
 ## The application provides the following features (all examples are use SQL Server DBMS)
 - Connect to database server
+
 You can connect using Windows authentication or login and password for specific database owner.
 
 ![_](https://user-images.githubusercontent.com/29926552/47922739-6dade480-dec0-11e8-8e60-3c909f2d2a93.png)
@@ -32,4 +33,5 @@ You can connect using Windows authentication or login and password for specific 
 ![find](https://user-images.githubusercontent.com/29926552/47922962-eb71f000-dec0-11e8-9c0a-cb4b944f0693.png)
 
 - Save / open database tree in XML format.
+
 The current database is saved in the northwind.xml file.

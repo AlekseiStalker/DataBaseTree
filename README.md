@@ -34,4 +34,4 @@ You can connect using Windows authentication or login and password for specific 
 
 - Save / open database tree in XML format.
 
-The current database is saved in the northwind.xml file.
+(The current database store in the `northwind.xml` file)

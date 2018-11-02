@@ -23,9 +23,9 @@ You can connect using Windows authentication or login and password for specific 
 - View properties of database objects.
 - View the software implementation of tables, views, functions and stored procedures.
 
-![prop_def_1](https://user-images.githubusercontent.com/29926552/47922848-afd72600-dec0-11e8-9e51-351bfe9c1f9c.png)
+![prop_def_1](https://user-images.githubusercontent.com/29926552/47923804-06ddfa80-dec3-11e8-93cb-25e490424562.png)
 
-![prop_def_2](https://user-images.githubusercontent.com/29926552/47922852-b1085300-dec0-11e8-8048-01a8cde3f470.png)
+![prop_def_2](https://user-images.githubusercontent.com/29926552/47923809-08a7be00-dec3-11e8-8741-d9243a262f1b.png)
 
 - Search for entities by name.
 
